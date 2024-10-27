@@ -2,6 +2,10 @@
 
 This is a community of game creators making open source games together in Godot since October 2024. Not affiliated with the Godot Foundation, just a community of Godudes and Godudettes.
 
+<br>
+
+$${\textsf{\color{#F35774}New organization replacing the original Godot-Community-Games-Org because I got locked out of that account.}}$$
+
 <br><br>
 
 # New to the community?
