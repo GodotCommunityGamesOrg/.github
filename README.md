@@ -1,1 +1,1 @@
-# .github
+Note: this repo is not a game or project of any sort. This repo just contains the README file for the whole organization (at profile/README), and the Discussion section in this repo is mirrored to the Discussion section on the organization page. So the only necessary file in this repo is the profile/README file.
