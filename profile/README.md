@@ -61,6 +61,6 @@ Finalized guidelines will be added next week once guideline discussions on Disco
 These are the types of repositories we will be hosting.
 - Repos for each game we are building
 - Repos for prototypes of games
-- A Development Tools repo for any tools made by the community that will be convenient for development (https://github.com/Godot-Community-Games-Org/Development-Tools)
-- A Community Asset Repository for storing community-made graphical and audio assets, template scripts, reusable (composable) scenes, visual effects, and any other kind of asset that can be reused for prototyping and development (https://github.com/Godot-Community-Games-Org/Community-Asset-Repository)
+- A Development Tools repo for any tools made by the community that will be convenient for development (https://github.com/GodotCommunityGamesOrg/Development-Tools)
+- A Community Asset Repository for storing community-made graphical and audio assets, template scripts, reusable (composable) scenes, visual effects, and any other kind of asset that can be reused for prototyping and development (https://github.com/GodotCommunityGamesOrg/Community-Asset-Repository)
 - In the future we may have repos for any potential community-made Godot addons
